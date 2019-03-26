@@ -1,10 +1,1 @@
- Volume in drive D has no label.
- Volume Serial Number is 9281-E8F8
-
- Directory of D:\GitLocalRepository
-
-26-Mar-19  11:17 AM    <DIR>          .
-26-Mar-19  11:17 AM    <DIR>          ..
-26-Mar-19  11:17 AM                 0 file.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  287,242,772,480 bytes free
+Hello there ! Have a nice day 
